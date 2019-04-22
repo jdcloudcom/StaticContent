@@ -186,5 +186,29 @@
     {
         "name": "Discount Page",
         "url": "https://www.jdcloud.com/news/treatmentSuccess"
+    },
+    {
+      "name": "Partners - ISV Solution Plan",
+      "url": "https://www.jdcloud.com/cn/partner/ISV"
+    },
+    {
+      "name": "Partners - Channel Distribution Cooperation Plan",
+      "url": "https://www.jdcloud.com/cn/partner/place"
+    },
+    {
+    "name": "Partners - Enterprise Service Provider Cooperation Plan",
+    "url": "https://www.jdcloud.com/cn/partner/company"
+    },
+    {
+      "name": "Partners - Product Cooperation Plan",
+      "url": "https://www.jdcloud.com/cn/partner/product"
+    },
+    {
+      "name": "Partners - Apply for Being JD Cloud’s Partner",
+      "url": "https://www.jdcloud.com/cn/partner/reg"
+    },
+    {
+      "name": "Partners - Home Page v2",
+      "url": "https://www.jdcloud.com/cn/partner/index"
     }
 ]
