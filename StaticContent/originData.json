@@ -210,5 +210,9 @@
     {
       "name": "合作伙伴-首页v2",
       "url": "https://www.jdcloud.com/cn/partner/index"
+    },
+    {
+      "name": "SSL数字证书产品页",
+      "url": "https://www.jdcloud.com/cn/products/ssl-certificate"
     }
 ]
